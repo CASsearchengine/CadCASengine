@@ -1,1 +1,86 @@
-
+[
+  {
+    "CAS": "100-02-7",
+    "Name": "p-Nitrophenol",
+    "Sublocation": "B4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/241326?userType=anonymous"
+  },
+  {
+    "CAS": "100-47-0",
+    "Name": "Benzonitrile",
+    "Sublocation": "J2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/294098?userType=undefined"
+  },
+  {
+    "CAS": "100-66-3",
+    "Name": "Anisole, Methoxybenzene",
+    "Sublocation": "J1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/296295?userType=undefined"
+  },
+  {
+    "CAS": "100209-45-8",
+    "Name": "Bacto Peptone",
+    "Sublocation": "N1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/29185?userType=anonymous"
+  },
+  {
+    "CAS": "10022-31-8",
+    "Name": "Barium Nitrate",
+    "Sublocation": "A1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/Aldrich/202754?srsltid=AfmBOoqk64iHvoDIQpJVoCE8ijOJqQyOUy__jWMO7i6QgROdU524vv3W"
+  },
+  {
+    "CAS": "10026-06-9",
+    "Name": "Tin (IV) chloride hydrate, Tin (IV) chloride pentahydrate, stannic chloride",
+    "Type": "Chemical",
+    "Category": "White (corrosive)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sublocation": "A3",
+    "URL": "https://www.sigmaaldrich.cn/US/en/sds/sigald/244678"
+  },
+  {
+    "CAS": "10034-96-5",
+    "Name": "Manganese (II) sulfate monohydrate",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sublocation": "R4, top shelf",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/m7634"
+  },
+  {
+    "CAS": "10034-99-8",
+    "Name": "Magnesium sulfate 7-hydrate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sublocation": "E1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/230391?userType=anonymous"
+  },
+  {
+    "CAS": "10042-76-9",
+    "Name": "Strontium nitrate",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sublocation": "A2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/243426"
+  },
+  {
+    "CAS": "10043-35-3",
+    "Name": "Boric Acid",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sublocation": "C3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/b0394?userType=anonymous"
+  },
+  {
+    "CAS": "10043-52-4",
+    "Name": "Calcium Chloride",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sublocation": "C4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/c4901?userType=anonymous"
+  }
+]
