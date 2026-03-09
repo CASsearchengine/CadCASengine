@@ -105,6 +105,10 @@ button:hover {
     object-fit: cover;
 }
 
+.guide-body{
+  background-color: #6693B0; /* Sets the background color for the element */
+}
+
 .guide-container{
     max-width:800px;
     margin:50px auto;
