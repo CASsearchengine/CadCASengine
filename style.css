@@ -135,4 +135,11 @@ h1{
 .back-button{
     text-decoration:none;
     font-weight:bold;
+     padding: 10px 15px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer; /*specifies the mouse cursor to be displayed when pointing over an element.*/
+    margin-left: 10px;
 }
