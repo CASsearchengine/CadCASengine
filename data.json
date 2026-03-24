@@ -2,85 +2,192 @@
   {
     "CAS": "1332-58-7",
     "Name": "Ball Clay",
-    "Sublocation": "",
     "URL": "https://www.aardvarkclay.com/pdf/raw_clays/SDS-Old%20Hickory%20Ball%20Clays.pdf"
   },
   {
-    "CAS": "100-47-0",
-    "Name": "Benzonitrile",
-    "Sublocation": "J2",
-    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/294098?userType=undefined"
+    "CAS": "1184-64-1",
+    "Name": "Copper Carbonate",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/207896?srsltid=AfmBOooC2OgR1zaD3Fh2Es_Syds0qqOpdjcziRfahWG9yxKSs4WE_Bvn"
   },
   {
-    "CAS": "100-66-3",
-    "Name": "Anisole, Methoxybenzene",
-    "Sublocation": "J1",
-    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/296295?userType=undefined"
+    "CAS": "12055-23-1",
+    "Name": "Hafnium (IV) oxide",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=AA4027022&productDescription=HAFNIUM%28IV%29+OXIDE%2C+TECH.+100G&vendorId=VN00024248&countryCode=US&language=en"
   },
   {
-    "CAS": "100209-45-8",
-    "Name": "Bacto Peptone",
-    "Sublocation": "N1",
-    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/29185?userType=anonymous"
+    "CAS": "12060-58-1",
+    "Name": "Samarium Oxide",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=AA36278&productDescription=keyword&vendorId=VN00024248&countryCode=US&language=en"
   },
   {
-    "CAS": "10022-31-8",
-    "Name": "Barium Nitrate",
-    "Sublocation": "A1",
-    "URL": "https://www.sigmaaldrich.com/US/en/sds/Aldrich/202754?srsltid=AfmBOoqk64iHvoDIQpJVoCE8ijOJqQyOUy__jWMO7i6QgROdU524vv3W"
+    "CAS": "12061-16-4",
+    "Name": "Erbium (III) Oxide",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=AA3637214&productDescription=ERBIUM%28III%29+OXIDE%2C+99.8%25+25G&vendorId=VN00024248&countryCode=US&language=en"
   },
   {
-    "CAS": "10026-06-9",
-    "Name": "Tin (IV) chloride hydrate, Tin (IV) chloride pentahydrate, stannic chloride",
-    "Type": "Chemical",
-    "Category": "White (corrosive)",
-    "Location": "Chem Storeroom (Ivey 203A)",
-    "Sublocation": "A3",
-    "URL": "https://www.sigmaaldrich.cn/US/en/sds/sigald/244678"
+    "CAS": "12168-52-4",
+    "Name": "Ilmenite",
+    "URL": "https://moore-college-files.s3.amazonaws.com/files/resources/illmenite-granular.pdf"
   },
   {
-    "CAS": "10034-96-5",
-    "Name": "Manganese (II) sulfate monohydrate",
-    "Type": "Chemical",
-    "Category": "Blue (health)",
-    "Location": "Chem Storeroom (Ivey 203A)",
-    "Sublocation": "R4, top shelf",
-    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/m7634"
+    "CAS": "1303-96-4",
+    "Name": "Borax",
+    "URL": "https://tsapps.nist.gov/srmext/msds/187f-MSDS.pdf"
   },
   {
-    "CAS": "10034-99-8",
-    "Name": "Magnesium sulfate 7-hydrate",
-    "Type": "Chemical",
-    "Category": "Green (general)",
-    "Location": "Chem Storeroom (Ivey 203A)",
-    "Sublocation": "E1",
-    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/230391?userType=anonymous"
+    "CAS": "1308-06-1",
+    "Name": "Cobalt Oxide",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=C382500&productDescription=COBALT+OXIDE+CERTIFIED+500G&vendorId=VN00033897&countryCode=US&language=en"
   },
   {
-    "CAS": "10042-76-9",
-    "Name": "Strontium nitrate",
-    "Type": "Chemical",
-    "Category": "Yellow (oxidizer)",
-    "Location": "Chem Storeroom (Ivey 203A)",
-    "Sublocation": "A2",
-    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/243426"
+    "CAS": "1309-37-1",
+    "Name": "Ferric Oxide, 'Superfine' Red Oxide",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/ALDRICH/529311?userType=undefined"
   },
   {
-    "CAS": "10043-35-3",
-    "Name": "Boric Acid",
-    "Type": "Chemical",
-    "Category": "Green (general)",
-    "Location": "Chem Storeroom (Ivey 203A)",
-    "Sublocation": "C3",
-    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/b0394?userType=anonymous"
+    "CAS": "1313-13-9",
+    "Name": "Manganese Dioxide",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=S25420A&productDescription=MANGANESE+DIOXIDE+PWD+500G+LG&vendorId=VN00115888&countryCode=US&language=en"
   },
   {
-    "CAS": "10043-52-4",
-    "Name": "Calcium Chloride",
-    "Type": "Chemical",
-    "Category": "Green (general)",
-    "Location": "Chem Storeroom (Ivey 203A)",
-    "Sublocation": "C4",
-    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/c4901?userType=anonymous"
+    "CAS": "1313-97-9",
+    "Name": "Neodymium Oxide",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=AC211580250&productDescription=NEODYMIUM%28III%29-OXIDE%2C+99+25GR&vendorId=VN00032119&countryCode=US&language=en"
+  },
+  {
+    "CAS": "1313-99-1",
+    "Name": "Nickel (II) Oxide",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=N69100&productDescription=NICKELOUS+OXIDE+CERT+100GM&vendorId=VN00033897&countryCode=US&language=en"
+  },
+  {
+    "CAS": "1314-13-2",
+    "Name": "Zinc Oxide ",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/544906?userType=undefined"
+  },
+  {
+    "CAS": "1332-58-7",
+    "Name": "EPK Kaolin, Kaolinite",
+    "URL": "https://www.aardvarkclay.com/pdf/raw_clays/SDS-EPK.pdf"
+  },
+  {
+    "CAS": "13397-24-5",
+    "Name": "USG White Moulding Plaster",
+    "URL": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-white-moulding-plaster-sds-en-52000000125.pdf"
+  },
+  {
+    "CAS": "1344-95-2",
+    "Name": "Calcium Silicate",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/742503?userType=undefined"
+  },
+  {
+    "CAS": "14808-60-7",
+    "Name": "Silicia Sand ",
+    "URL": "https://www.ussilica.com/sites/default/files/2019-05/Silica%20OSHA%20EU%20SDS%20%284-18%29.pdf"
+  },
+  {
+    "CAS": "1633-05-2",
+    "Name": "Strontium Carbonate",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/ALDRICH/289833?srsltid=AfmBOoqOhELJu5zW1pUz78koDE_jHQ5A2DUmwRbsOzPLy9cC0Q3m3IG8"
+  },
+  {
+    "CAS": "18232-10-5",
+    "Name": "Tin (IV) Oxide",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=AC223685000&productDescription=TIN+IV+OXIDE+500GR&vendorId=VN00032119&countryCode=US&language=en"
+  },
+  {
+    "CAS": "3333-67-3",
+    "Name": "Nickelous Carbonate",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=N51500&productDescription=NICKELOUS+CARBONATE+TECH+500G&vendorId=VN00033897&countryCode=US&language=en"
+  },
+  {
+    "CAS": "37244-96-5",
+    "Name": "Nepheline Syenite",
+    "URL": "https://web.faa.illinois.edu/app/uploads/sites/6/2021/05/Nepheline-Syenite.pdf"
+  },
+  {
+    "CAS": "497-19-8",
+    "Name": "Sodium Carbonate",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=S25539A&productDescription=SODIUM+CARBONATE+ANHYD+500G+LG&vendorId=VN00115888&countryCode=US&language=en"
+  },
+  {
+    "CAS": "513-79-1",
+    "Name": "Cobaltous Carbonate",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=AA42745&productDescription=keyword&vendorId=VN00024248&countryCode=US&language=en"
+  },
+  {
+    "CAS": "65997-18-4",
+    "Name": "Glaze Frit",
+    "URL": "https://moore-college-files.s3.amazonaws.com/files/resources/frit3124.pdf"
+  },
+  {
+    "CAS": "68476-25-5",
+    "Name": "Feldspar",
+    "URL": "https://www.chemicalbook.com/msds/feldspar.pdf"
+  },
+  {
+    "CAS": "9004-32-4",
+    "Name": "CMC, Sodium Carboxymethylcellulose",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=AC332640010&productDescription=CARBOXYMETHYL+CELLULOSE%2C+1KG&vendorId=VN00032119&countryCode=US&language=en"
+  },
+  {
+    "CAS": "Mixture",
+    "Name": "Redart Clay",
+    "URL": "https://www.aardvarkclay.com/pdf/raw_clays/SDS-Redart.pdf"
+  },
+  {
+    "CAS": "Mixture",
+    "Name": "Glaze Crystals",
+    "URL": "https://www.mnclay.com/msds/pdf/chem_raw/p54.pdf"
+  },
+  {
+    "CAS": "Mixture",
+    "Name": "Dicalcium Phosphate",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=C135500&productDescription=CALC+PHOSPHATE+DIBAS+REAG+500G&vendorId=VN00033897&countryCode=US&language=en"
+  },
+  {
+    "CAS": "Mixture",
+    "Name": "Gertstley Borate",
+    "URL": "https://moore-college-files.s3.amazonaws.com/files/resources/gerstley-borate.pdf"
+  },
+  {
+    "CAS": "Mixture",
+    "Name": "Hematite",
+    "URL": "https://tsapps.nist.gov/srmext/msds/692-MSDS.pdf"
+  },
+  {
+    "CAS": "Mixture",
+    "Name": "Spodumene",
+    "URL": ""
+  },
+  {
+    "CAS": "Mixture",
+    "Name": "https://mcdn.martinmarietta.com/assets/safety-data-sheets/spodumene-fines-sds-june-2018.pdf",
+    "URL": ""
+  },
+  {
+    "CAS": "Mixture",
+    "Name": "#25 Dark Buff, Yellow Ochre",
+    "URL": "https://www.mnclay.com/msds/pdf/chem_raw/ochre.pdf"
+  },
+  {
+    "CAS": "Mixture",
+    "Name": "Phosphate Salt, Bone Ash",
+    "URL": "https://cdn.shoplightspeed.com/shops/660312/files/51083805/sds-bone-ash.pdf"
+  },
+  {
+    "CAS": "Mixture",
+    "Name": "Goldart Clay",
+    "URL": "https://www.rescoproducts.com/docs/default-source/data-sheets-us/sds/goldart-clay-msds.pdf?sfvrsn=3e8b7d46_4"
+  },
+  {
+    "CAS": "Mixture",
+    "Name": "3110 Frit, 3110-2 Frit",
+    "URL": "https://www.armadilloclay.com/uploads/5/1/2/8/51288343/msds_frits_3110.pdf"
+  },
+  {
+    "CAS": "Mixture",
+    "Name": "3195 Frit",
+    "URL": "http://schoolcraft.mi.safeschoolssds.com/document/repo/1577acb4-3a7a-11e3-9b6e-d8d230712f36"
   }
+  
 ]
